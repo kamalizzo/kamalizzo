@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamalizzu
 - 👀 I’m interested in Electromobility, Sensors Technology, IoT products as well as Renewable Energies in general. 
-- 🌱 I’m currently learning on implementing Machine Learning/Artificial Intelligent models on IoT products.
+- 🌱 I’m currently learning to implement Machine Learning/Artificial Intelligent models on IoT products.
 - 💞️ I’m looking to collaborate on projects such as development or analysis tool using Python/C or C++.
 - 📫 I am reachable through kamal.izzuddin96@gmail.com 
 
